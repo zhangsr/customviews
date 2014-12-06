@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SmoothSwitch">
+        <!-- The drawable for background of custom switch -->
+        <attr name="drawable_track" format="reference" />
+        <!--  The drawable for custom switch thumb -->
+        <attr name="drawable_thumb" format="reference" />
+    </declare-styleable>
+</resources>
